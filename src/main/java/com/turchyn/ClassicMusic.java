@@ -7,8 +7,8 @@ import java.util.List;
         private List<Song> classicMusic=new ArrayList<>();
 
         public ClassicMusic(){
-            classicMusic.add(new Song("Classic1","trek1"));
-            classicMusic.add(new Song("Classic2","trek2"));
+            classicMusic.add(new Song("Шопен","Полонез"));
+            classicMusic.add(new Song("Моцарт","Чарівна Флейта"));
         }
 
 
